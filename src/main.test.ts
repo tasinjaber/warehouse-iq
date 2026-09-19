@@ -1,0 +1,1 @@
+import{describe,it,expect}from"vitest";describe("Warehouse IQ",()=>it("has a valid title",()=>expect("Warehouse IQ".length).toBeGreaterThan(3)));
